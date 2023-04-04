@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="bobothy-colors",
-    version="1.0.0",
+    version="1.0.1",
     description="library of rgb colors",
     py_modules=["colors"],
     python_requires=">=2.0, >=3.0",
